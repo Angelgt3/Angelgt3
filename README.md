@@ -1,20 +1,19 @@
-## Hi there 👋
+## 👋 Hola, soy Angel
 
-<!--
-**Angelgt3/Angelgt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrolador con cierre de pensum en Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.  
+Interesado en el desarrollo de software, la arquitectura de sistemas y el diseño de bases de datos.  
+Enfocado en crear soluciones eficientes y escalables.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Actividad en GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelgt3&layout=compact&langs_count=10&theme=radical&count_private=true)  
+
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angelgt3&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelgt3&layout=compact&langs_count=10&theme=radical&count_private=true)
 -->
+
+---
+
+
