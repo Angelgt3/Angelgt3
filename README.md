@@ -2,6 +2,7 @@
 
 Desarrolador con cierre de pensum en Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala.  
 Interesado en el desarrollo de software, la arquitectura de sistemas y el diseño de bases de datos.
+
 ---
 
 ### 📈 Actividad en GitHub
